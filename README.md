@@ -1,5 +1,5 @@
 <div align="center">
-<h1 style="font-size:45px; font-weight:900;"><b>The Generative & Agentic AI Compendium</b></h1>
+<h1 style="font-size:45px; font-weight:900;"><b>The Generative AI & Agentic AI Compendium</b></h1>
 <h2 style="font-size:28px; font-weight:700;"><b>GenAI · Agentic Systems · LLMOps · Learning by Building</b></h2>
 <p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=900&lines=My+Personal+AI+Learning+Journey;Built+Through+Hands-on+Experiments;Generative+AI+%7C+Agentic+Systems+%7C+LLMOps" />
